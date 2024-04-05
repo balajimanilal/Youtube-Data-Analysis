@@ -25,6 +25,3 @@ Navigate to the "Collect and Store Data" section to add new YouTube channels for
 Explore "Choose Channel" to transfer existing data to SQL.
 Under the "Select The Table For View" section, tables were displayed categorized for channels, playlists, videos, and comments.
 Under the "Select your question" area, 10 questions will be listed for studying the collected data. This can be done either using built-in queries or by directly checking the raw data tables.
-
-
-
